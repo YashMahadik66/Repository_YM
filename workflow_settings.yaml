@@ -1,0 +1,5 @@
+defaultProject: smart-return-428209-a5
+defaultLocation: asia-south1
+defaultDataset: dataform
+defaultAssertionDataset: dataform_assertions
+dataformCoreVersion: 3.0.0-beta.4
